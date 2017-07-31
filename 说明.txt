@@ -1,0 +1,19 @@
+运行环境：jdk1.6
+数据库：mysql-5.0.51a-win32.zip
+服务器:tomcat5.5
+开发工具: myeclips5.5以上
+
+
+数据库脚本：jwglxt.sql
+
+采用jdbc连接方式，数据库用户名：root 密码：123
+
+在IE中输入：http://localhost:8080/jwglxt/ 
+即可打开首页
+
+http://localhost:8080/jwglxt/admin
+管理员名：admin
+密码：admin
+
+
+
